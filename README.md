@@ -1,10 +1,11 @@
 # Stock_Price_Prediction_Using_LSTM
-Overview
+#Overview
+
 This project aims to predict stock prices using a Long Short-Term Memory (LSTM) neural network model. By leveraging historical stock data, the project provides insights and forecasts that can enhance investment strategies.
 
-Objective
+#Objective
 Develop a predictive model for stock prices using the LSTM algorithm.
-Approach
+#Approach
 Data Collection and Preprocessing:
 
 Utilized libraries such as Pandas, Numpy, and yfinance to collect and preprocess historical stock data.
